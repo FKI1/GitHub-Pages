@@ -4,4 +4,6 @@
 ![alt text](scale_1200.png)
 
 осваиваю язык программирования "Python".
+
 ![alt text](62d054f7b1c7e37d37324103.jpg)
+
